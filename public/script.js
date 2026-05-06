@@ -55,8 +55,6 @@ const catalogo = [
         assistido: true
     }
 ]
-
-console.log(catalogo)
 console.log(`Título do primeiro item: ${catalogo[0].titulo}`)
 console.log(`Ano do último item: ${catalogo[catalogo.length - 1].ano}`)
 if (catalogo[2].generos.length >= 2) {
@@ -101,8 +99,6 @@ const notaAssistidos = assistidos.map(item => item.nota)
 const somaAssistidos = notaAssistidos.reduce((acomulador, atual) => {
     return acomulador + atual
 }, 0)
-
-console.log(notaAssistidos)
 
 const mediaAssistidos = (somaAssistidos / notaAssistidos.length).toFixed(2)
 

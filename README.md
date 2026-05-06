@@ -10,10 +10,10 @@ Nesta atividade, você irá fazer exercícios de programação com o objetivo de
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+![listagem de titulos](img/listagem_de_titulos.png)
 
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+![media](img/media_notas.png)
 
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
+![verificação](img/verificação.png)
 
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![página resumo](img/pagina_resumo.png)
