@@ -5,7 +5,7 @@ Nesta atividade, você irá fazer exercícios de programação com o objetivo de
 
 ## Informações Gerais
 
-- Nome: Matheus Felipe Costa William.
+- Nome: Matheus Felipe Costa William
 - Matrícula: 927495
 
 ## Prints do console do navegador
